@@ -1,0 +1,26 @@
+[
+  {
+    "vehiculo_patente": "AB123CD",
+    "tipo_servicio": "Stage 1",
+    "fecha": "2026-10-15T10:00:00Z",
+    "mecanico": "Carlos",
+    "precio": 50000,
+    "estado": "Completado"
+  },
+  {
+    "vehiculo_patente": "EF456GH",
+    "tipo_servicio": "Stage 2",
+    "fecha": "2026-10-18T14:30:00Z",
+    "mecanico": "Carlos",
+    "precio": 85000,
+    "estado": "Completado"
+  },
+  {
+    "vehiculo_patente": "IJ789KL",
+    "tipo_servicio": "Launch Control",
+    "fecha": "2026-10-20T09:15:00Z",
+    "mecanico": "Martin",
+    "precio": 35000,
+    "estado": "En progreso"
+  }
+]

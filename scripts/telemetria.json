@@ -1,0 +1,29 @@
+[
+  {
+    "vehiculo_patente": "AB123CD",
+    "timestamp": "2026-10-15T11:00:00Z",
+    "parametros": {
+      "rpm": 3500,
+      "temperatura_motor": 90,
+      "presion_turbo": 1.2
+    }
+  },
+  {
+    "vehiculo_patente": "AB123CD",
+    "timestamp": "2026-10-15T11:05:00Z",
+    "parametros": {
+      "rpm": 5200,
+      "temperatura_motor": 94,
+      "presion_turbo": 1.5
+    }
+  },
+  {
+    "vehiculo_patente": "EF456GH",
+    "timestamp": "2026-10-18T15:00:00Z",
+    "parametros": {
+      "rpm": 4800,
+      "temperatura_motor": 92,
+      "presion_turbo": 1.4
+    }
+  }
+]

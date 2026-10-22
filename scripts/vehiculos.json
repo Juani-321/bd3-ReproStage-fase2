@@ -1,0 +1,26 @@
+[
+  {
+    "patente": "AB123CD",
+    "marca": "Volkswagen",
+    "modelo": "Gol",
+    "año": 2018,
+    "motor": "1.6",
+    "cliente": "Juan Perez"
+  },
+  {
+    "patente": "EF456GH",
+    "marca": "Ford",
+    "modelo": "Focus",
+    "año": 2020,
+    "motor": "2.0",
+    "cliente": "Pedro Gomez"
+  },
+  {
+    "patente": "IJ789KL",
+    "marca": "Chevrolet",
+    "modelo": "Corsa",
+    "año": 2015,
+    "motor": "1.6",
+    "cliente": "Marcos Silva"
+  }
+]
